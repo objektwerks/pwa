@@ -88,4 +88,4 @@ Resources
 
 Notes
 -----
-* Web and Service Workers **do not** support ES6 modules. **But will in Google 69!**
+* Web and Service Workers **do not** support ES6 modules.
