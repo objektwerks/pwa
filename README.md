@@ -1,6 +1,6 @@
 PWA
 ---
-Fundamental progressive web app (PWA) - viewable at https://objektwerks.github.io/pwa/
+Progressive web app (PWA) - viewable at https://objektwerks.github.io/pwa/
 
 Features
 --------
